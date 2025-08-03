@@ -15,7 +15,7 @@ This repo can help you to:
 
 ```bash
 git clone https://github.com/michsethowusu/twi-sentiments.git
-cd twi-id
+cd twi-sentiments
 ```
 
 2. **Install dependencies**
