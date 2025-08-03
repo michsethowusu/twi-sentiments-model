@@ -63,7 +63,7 @@ To train on new data (e.g., for another language):
     python3 train.py
     ```
 
-This will output a `twi_id_model.bin` file inside the `model/` directory.
+This will output a `twi_sentiments_model.bin` file inside the `model/` directory.
 
 ---
 
