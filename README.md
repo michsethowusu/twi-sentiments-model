@@ -14,8 +14,8 @@ This repo can help you to:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/michsethowusu/twi-sentiments.git
-cd twi-sentiments
+git clone https://github.com/michsethowusu/twi-sentiments-model.git
+cd twi-sentiments-model
 ```
 
 2. **Install dependencies**
