@@ -32,7 +32,7 @@ pip install numpy==1.26.4 pandas==2.3.1 scikit-learn==1.7.1 fasttext==0.9.3
 ### 🔹 Predict Sentiment for a Single Sentence
 
 ```bash
-python3 single-id.py
+python3 predict_single.py
 ```
 
 You'll be prompted to enter a sentence and the script will return whether it has a negative or positve sentiment.
@@ -42,7 +42,7 @@ You'll be prompted to enter a sentence and the script will return whether it has
 ### 🔹 Predict Sentiments for sentences in a CSV dataset
 
 ```bash
-python3 batch-id.py
+python3 predict_batch.py
 ```
 
 This script will:
