@@ -14,6 +14,7 @@ This repo can help you to:
 1. **Clone the repository**
 
 ```bash
+git lfs install
 git clone https://github.com/michsethowusu/twi-senti.git
 cd twi-senti
 ```
