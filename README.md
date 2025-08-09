@@ -1,6 +1,6 @@
 # Twi Language Sentiment Classification Model
 
-This repository contains a data and code for training a fasttext based **sentiment classification model** for **Twi (Akan)** or any other low-resource languages.
+This repository contains a model for classigifcation of sentneces in Twi language into negative or positive sentiments. It also contains dataset uses for the training and code for training a fasttext based **sentiment classification model** for **Twi (Akan)** or any other low-resource languages. You can download the model and dataset from the releases - https://github.com/michsethowusu/twi-senti/releases.
 
 ---
 
