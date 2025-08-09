@@ -4,7 +4,7 @@ This repository contains a model for classigifcation of sentneces in Twi languag
 
 ---
 
-## 🛠️ Installation
+## Setup
 
 1. **Clone the repository**
 
@@ -22,7 +22,7 @@ pip install numpy==1.26.4 pandas==2.3.1 scikit-learn==1.7.1 fasttext==0.9.3
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 🔹 Train Your Own Model
 
@@ -39,7 +39,7 @@ This will output a `twi_sentiment_model.bin` file inside the `model/` directory.
 
 ---
 
-### 🔹 Predict Sentiment for a Single Sentence
+### Predict Sentiment for a Single Sentence
 
 ```bash
 python3 predict_single.py
@@ -49,7 +49,7 @@ You'll be prompted to enter a sentence and the script will return whether it has
 
 ---
 
-### 🔹 Predict Sentiments for sentences in a CSV dataset
+### Predict Sentiments for sentences in a CSV dataset
 
 ```bash
 python3 predict_batch.py
@@ -62,13 +62,13 @@ This script will:
 
 ---
 
-## 🔒 License
+## License
 
 MIT License — feel free to fork, adapt, and build upon it!
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Built with [FastText](https://fasttext.cc/)
 - Part of the [GhanaNLP's](https://github.com/GhanaNLP) effort to make Ghanaian Languages accesible.
